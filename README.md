@@ -19,4 +19,18 @@ In this project, I conducted RNA-seq data processing and differential gene expre
 
 [Project Report](NGS_Final_Project_Report.pdf)  
 [Project Code](NGS_Final_Project_code.pdf)  
-[MultiQC Report](NGS_multiQC_Report.html)  
+
+### Investigating Peanut Allergy Sensitization Through Predicted Protein Protein Interactions 
+
+In this project, I used the Topsy-Turvy protein-protein interaction algorithm to predict interactions between peanut allergens and human immune proteins. The analysis screened over a million protein pairs and identified 356 high-confidence interactions. Motif discovery (via MEME), gene ontology enrichment, and Reactome pathway analysis were used to characterize these interactions. Key findings included the allergen Ara h 3’s broad binding potential and links to PD-1 signaling and CD209, suggesting possible mechanisms for severe allergic reactions and initial peanut sensitization.
+
+[Project Report](Proteomics_Final_Project_report.pdf)
+
+### Identifying Single Nucleotide Polymorphisms Associated with Hypertension risk
+
+
+
+
+
+
+
