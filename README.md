@@ -19,4 +19,20 @@ In this project, I conducted RNA-seq data processing and differential gene expre
 
 [Project Report](NGS_Final_Project_Report.pdf)  
 [Project Code](NGS_Final_Project_code.pdf)  
-[MultiQC Report](NGS_multiQC_Report.html)  
+
+### Investigating Peanut Allergy Sensitization Through Predicted Protein Protein Interactions 
+
+In this project, I used the Topsy-Turvy protein-protein interaction algorithm to predict interactions between peanut allergens and human immune proteins. The analysis screened over a million protein pairs and identified 356 high-confidence interactions. Motif discovery (via MEME), gene ontology enrichment, and Reactome pathway analysis were used to characterize these interactions. Key findings included the allergen Ara h 3’s broad binding potential and links to PD-1 signaling and CD209, suggesting possible mechanisms for severe allergic reactions and initial peanut sensitization.
+
+[Project Report](Proteomics_Final_Project_report.pdf)
+
+### Identifying Single Nucleotide Polymorphisms Associated with Hypertension risk
+
+In this project, I developed a pipeline to automatically curate and preprocess genetic and clinical data from open-source repositories. This involved web scraping, file parsing across multiple formats, and handling corrupted or incomplete datasets. From nearly 400 files, relevant genetic features were extracted and used to train an XGBoost classifier. Hyperparameters were optimized, and the model was evaluated using Monte Carlo cross-validation with 1,000 iterations. The average model achieved 72% accuracy, consistently outperforming random prediction. ROC analysis demonstrated the model’s robustness across classification thresholds, and feature importance analysis provided insight into the variables most associated with hypertension. This methodology could be scaled to larger datasets incorporating lifestyle and demographic features for broader clinical relevance.  
+
+[Project Notebook](Capstone_Final_draft.ipynb)
+
+### 
+
+
+
