@@ -32,7 +32,11 @@ In this project, I developed a pipeline to automatically curate and preprocess g
 
 [Project Notebook](Capstone_Final_draft.ipynb)
 
-### 
+### Comparative Genomic Analysis of SARS and COVID-19 Using dN/dS Ratios  
+
+In this project, I analyzed evolutionary pressures on viral genomes by calculating dN/dS ratios between SARS and COVID-19 protein-coding genes. Using R packages such as biomartr and orthologr, I retrieved coding sequences from NCBI RefSeq and performed pairwise alignments to identify orthologous genes. The dN/dS ratio, representing the rate of non-synonymous to synonymous mutations, was used to assess signs of positive or purifying selection. This analysis offers insights into how viral proteins have evolved and highlights targets under selective pressure, which could guide vaccine development and preparedness for future outbreaks.
+
+[Project Report](Viral_evolutionary_predictions_report.pdf)
 
 
 
