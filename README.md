@@ -30,13 +30,13 @@ In this project, I used the Topsy-Turvy protein-protein interaction algorithm to
 
 In this project, I developed a pipeline to automatically curate and preprocess genetic and clinical data from open-source repositories. This involved web scraping, file parsing across multiple formats, and handling corrupted or incomplete datasets. From nearly 400 files, relevant genetic features were extracted and used to train an XGBoost classifier. Hyperparameters were optimized, and the model was evaluated using Monte Carlo cross-validation with 1,000 iterations. The average model achieved 72% accuracy, consistently outperforming random prediction. ROC analysis demonstrated the model’s robustness across classification thresholds, and feature importance analysis provided insight into the variables most associated with hypertension. This methodology could be scaled to larger datasets incorporating lifestyle and demographic features for broader clinical relevance.  
 
-[Project Notebook](Capstone_Final_draft.ipynb)
+[Project Notebook](Capstone_Final_Draft.ipynb)
 
 ### Comparative Genomic Analysis of SARS and COVID-19 Using dN/dS Ratios  
 
 In this project, I analyzed evolutionary pressures on viral genomes by calculating dN/dS ratios between SARS and COVID-19 protein-coding genes. Using R packages such as biomartr and orthologr, I retrieved coding sequences from NCBI RefSeq and performed pairwise alignments to identify orthologous genes. The dN/dS ratio, representing the rate of non-synonymous to synonymous mutations, was used to assess signs of positive or purifying selection. This analysis offers insights into how viral proteins have evolved and highlights targets under selective pressure, which could guide vaccine development and preparedness for future outbreaks.
 
-[Project Report](Viral_evolutionary_predictions_report.pdf)
+[Project Report and Code](Viral_evolutionary_predictions_report.pdf)
 
 
 
