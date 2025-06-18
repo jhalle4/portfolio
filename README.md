@@ -30,7 +30,7 @@ In this project, I used the Topsy-Turvy protein-protein interaction algorithm to
 
 In this project, I developed a pipeline to automatically curate and preprocess genetic and clinical data from open-source repositories. This involved web scraping, file parsing across multiple formats, and handling corrupted or incomplete datasets. From nearly 400 files, relevant genetic features were extracted and used to train an XGBoost classifier. Hyperparameters were optimized, and the model was evaluated using Monte Carlo cross-validation with 1,000 iterations. The average model achieved 72% accuracy, consistently outperforming random prediction. ROC analysis demonstrated the model’s robustness across classification thresholds, and feature importance analysis provided insight into the variables most associated with hypertension. This methodology could be scaled to larger datasets incorporating lifestyle and demographic features for broader clinical relevance.  
 
-[Project Notebook](Capstone_Final_Draft.ipynb)
+[Project Notebook](Capstone_Notebook.pdf)
 
 ### Comparative Genomic Analysis of SARS and COVID-19 Using dN/dS Ratios  
 
